@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="400" viewBox="0 0 700 400">
+  <rect width="700" height="400" fill="#F9FAFB"/>
+  <rect x="50" y="50" width="600" height="300" fill="white" stroke="#E5E7EB" stroke-width="2" rx="8"/>
+  <text x="350" y="90" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151" text-anchor="middle">System Architecture Diagram</text>
+  <text x="350" y="120" font-family="Arial, sans-serif" font-size="14" fill="#6B7280" text-anchor="middle">Replace with use-case diagram (Figma / draw.io export)</text>
+  <rect x="150" y="150" width="120" height="60" fill="#DBEAFE" stroke="#2563EB" rx="4"/>
+  <text x="210" y="185" font-family="Arial" font-size="12" fill="#1E40AF" text-anchor="middle">Slum Dweller</text>
+  <rect x="300" y="150" width="120" height="60" fill="#DBEAFE" stroke="#2563EB" rx="4"/>
+  <text x="360" y="185" font-family="Arial" font-size="12" fill="#1E40AF" text-anchor="middle">Citizen</text>
+  <rect x="450" y="150" width="120" height="60" fill="#DBEAFE" stroke="#2563EB" rx="4"/>
+  <text x="510" y="185" font-family="Arial" font-size="12" fill="#1E40AF" text-anchor="middle">Nodal Officer</text>
+  <rect x="300" y="250" width="120" height="60" fill="#D1FAE5" stroke="#059669" rx="4"/>
+  <text x="360" y="285" font-family="Arial" font-size="12" fill="#047857" text-anchor="middle">NIVAAS Platform</text>
+</svg>
